@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ShoppingCart.API/ShoppingCart.API.csproj" />
+  <Project Path="ShoppingCart.Tests/ShoppingCart.Tests.csproj" Id="3d03b0ac-b49c-4d6f-8512-b39323807580" />
+</Solution>
